@@ -27,3 +27,4 @@ if __name__ == "__main__":
     # display sum
     print('Sum of the array is ', ans)
     print("Testing new line addition ")
+    print("Created a new branch (local)")
